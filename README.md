@@ -1,16 +1,20 @@
-# pet_dealer
+<p align="center"><a href="https://alila.id" target="_blank">PET DEALER MOBILE</a></p>
 
-A new Flutter project.
+<p align="center"> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_flutter.git">Flutter Mobile App</a> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_web.git">REST API</a> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_web.git">Web Based Admin</a> ||
+</p>
 
-## Getting Started
+## INSTALASI
 
-This project is a starting point for a Flutter application.
+Ikuti langkah-berikut:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Install Flutter](https://docs.flutter.dev/get-started/install)
+- Download ekstract atau jalankan GIT: git clone https://github.com/anwarfuadi/pet_dealer_flutter.git
+- CD pet_dealer_flutter
+- flutter pub get
+- Setup ENDPOINTAPI di lib/constant.dart
+- Setup WANUMBER di lib/constant.dart
+- flutter run
+- enjoy!
